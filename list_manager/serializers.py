@@ -9,6 +9,15 @@ class CategorySerializer(serializers.ModelSerializer):
 
 
 class ItemsSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Items
+        fields = '__all__'
+        depth = 1
+
+
+class PostItemsSerializer(serializers.ModelSerializer):
+
     class Meta:
         model = Items
         fields = '__all__'
