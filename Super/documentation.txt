@@ -1,0 +1,4 @@
+THIS VIDEO TELLS YOU HOW TO DEPLOY DJANGO APP ON UBUNTU 
+USING GUNICORN AND NGNIX 
+
+https://www.youtube.com/watch?v=YnrgBeIRtvo&ab_channel=DotJA
